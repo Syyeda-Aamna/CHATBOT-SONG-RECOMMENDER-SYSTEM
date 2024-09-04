@@ -7,6 +7,7 @@ Mood-Based Playlist Generation: Users can input their current mood, and the app 
 Wide Range of Moods and Genres: The app includes predefined playlists for moods like happy, sad, broken, romantic, energetic, and more, spanning across genres such as rock, pop, country, hip-hop, indie, and soul.
 Visual Representation: The app displays an image related to the selected mood, enhancing the user's experience.
 User-Friendly Interface: The app has a sidebar where users input their mood and receive a playlist with a single click.
+
 Installation
 Clone the Repository:
 
