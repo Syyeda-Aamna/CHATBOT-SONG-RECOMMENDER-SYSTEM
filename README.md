@@ -64,3 +64,6 @@ API Integration: Fetching songs dynamically from a music API to keep the playlis
 Conclusion
 The Random Song Selector is a simple yet fun tool for discovering songs that match your current mood. Whether you're feeling happy, sad, or something in between, this app has you covered with a mood-based playlist to enjoy.
 
+Author
+Syyeda Aamna (Your GitHub profile link)
+Feel free to contribute to this project by forking the repository and submitting pull requests!
